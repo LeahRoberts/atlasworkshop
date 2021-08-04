@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Answers"
+categories: Miscellaneous
+---
+
 # Answers:
 
 1. how many samples are there in total on Atlas?

@@ -1,3 +1,9 @@
+---
+layout: post
+title: "From Little Things"
+categories: Miscellaneous
+---
+
 # Exploring Atlas
 
 ## Step 1: register for an account on [Altas](https://uat.mykro.be/)
