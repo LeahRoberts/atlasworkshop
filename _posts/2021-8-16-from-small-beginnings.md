@@ -25,7 +25,7 @@ To help this process, we have devised some simple questions to prompt you to exp
 2. **how many locations are represented in Atlas? Which locations have the most samples? Which have the least?**
 
 
-3. **Name three ways you could search for rifampicin resistance isolates from the Sample Library page**
+3. **Name three ways you could search for Rifampicin resistant isolates from the Sample Library page**
 
 
 4. **What is the earliest sample collected in Atlas?**
@@ -34,13 +34,13 @@ To help this process, we have devised some simple questions to prompt you to exp
 5. **How many samples are Ethambutol resistant? How many are sensitive?**
 
 
-6. **What is the mechanism (i.e. SNP) of moxifloxacin resistance in isolate `SAMD00029436`?**
+6. **What is the mechanism of moxifloxacin resistance in isolate `SAMD00029436`?**
 
 
 7. **Which drugs are considered first line drugs? Which are second line drugs?**
 
 
-8. **How many isolates were obtained from Japan (a) in total, and (b) between 1St January 2013 - 1st of January 2014?**
+8. **How many isolates were obtained from Japan (a) in total, and (b) between 1st January 2013 - 1st of January 2014?**
 
 
 9. **How many samples are within a distance of 10 from isolate `SAMN06142915`? How many at a distance of 5?**
