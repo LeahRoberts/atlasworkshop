@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 1, Part 2: Now For Something Different"
+title: "Day 1/Part 2: Now For Something Different"
 categories: Miscellaneous
 ---
 
