@@ -6,7 +6,7 @@ categories: Miscellaneous
 
 # Exploring Atlas
 
-## Step 1: register for an account on [Altas](https://uat.mykro.be/)
+## Step 1: register for an account on [Atlas](https://uat.mykro.be/)
 
 You will find this option on the top right corner of the Atlas webpage. Note: you will receive a verification email to the email address you registered with Atlas.
 
