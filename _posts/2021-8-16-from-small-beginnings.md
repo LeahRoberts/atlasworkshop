@@ -16,7 +16,7 @@ If you already have an account, log in with your credentials.
 
 We are going to give you some time to explore Atlas and its features independently. This will help you get a better understanding of the platform, how to navigate it and what functions you can use to explore the data. 
 
-To help this process, we have devised some simple questions to prompt you to explore Atlas. This should take about 30 minutes. When you are done, you can check your answers [here](https://leahroberts.github.io/atlasworkshop/answers/). 
+To help this process, we have devised some simple questions to prompt you to explore Atlas. When you are done, you can check your answers [here](https://leahroberts.github.io/atlasworkshop/answers/). 
 
 
 1. **how many samples are there in total on Atlas?**
@@ -47,6 +47,20 @@ To help this process, we have devised some simple questions to prompt you to exp
 
 
 10. **How many MDR samples in the library? Which country has the most?**
+
+
+## Step 3: Through the looking glass
+
+Now that you are more familiar with Atlas, you can now have a look at the samples you've been analysing in the workshop.
+
+Search for your sample of interest in the "Sample Library" using the isolate/sample ID. Once you find it, click on the link to the sample. You may want to explore:
+
+1. How many other samples are closely related to yours? 
+2. Are the closely related isolates geographically spread, or in a single location? 
+3. What is the resistance prediction for your sample? How does this compare to other closely related samples? 
+
+
+
 
 
 

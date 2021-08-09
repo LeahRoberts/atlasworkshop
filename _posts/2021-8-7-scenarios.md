@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Day 1/Part 2: Now For Something Different"
+title: "Optional Scenarios: Now For Something Different"
 categories: Miscellaneous
 ---
 
 # Scenarios
+
+**This section is optional and is an example of more thorough analyses you could explore with Atlas.**
 
 Now that you are familiar with the platform, we are going to look at some real world examples of how you might use Atlas. Below we have three different scenarios for you to choose from. We have outlined how you might begin to look at the data, but you are free to explore and adapt as you see fit. 
 
