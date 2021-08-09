@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
-## What is Altas?
+## What is Atlas?
 
 [Atlas](https://uat.mykro.be/) is a fully accessible web platform that combines both analysis and exploration of Mycobacterium tuberculosis (TB) samples.
 
 Atlas allows users to explore a huge repository of tuberculosis isolates, collating drug resistance prediction results from [Mykrobe](https://www.mykrobe.com/) with sample metadata and estimated isolate distances. This provides clinicians and researchers with an easily accessible platform to understand TB either locally or on a much broader global scale. 
 
 Atlas also provide users the means to analyse and contextualise their own samples. By uploading their own data, Atlas will report drug resistance prediction results as well as estimated distances to other isolates within Atlas. This allows for easy outbreak and transmission prediction, as well as possible treatment options based on the predicted drug resistance profile. 
+
+Current funding for Atlas is finishing at the end of 2021. The Atlas portal will then be moved to a new host site (with a new address). 
 
 
 ## Site design credit: 

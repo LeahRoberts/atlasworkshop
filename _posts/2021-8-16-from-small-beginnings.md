@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 1/Part 1: From Small Beginnings"
+title: "Day 1: From Small Beginnings"
 categories: Miscellaneous
 ---
 
