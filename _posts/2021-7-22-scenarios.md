@@ -10,7 +10,7 @@ categories: Miscellaneous
 
 Now that you are familiar with the platform, we are going to look at some real world examples of how you might use Atlas. Below we have three different scenarios for you to choose from. We have outlined how you might begin to look at the data, but you are free to explore and adapt as you see fit. 
 
-**NOTE:** in a future release of Atlas users will be able to download spreadsheets containing relevant metadata from a selection of samples. Currently, however, this feature has not been implemented. To assist you with this workshop, we have pre-downloaded a number of spreadsheets to assist you with your analysis. 
+**NOTE:** in a future release of Atlas users will be able to download spreadsheets containing relevant metadata from a selection of samples. Currently, however, this feature has not been implemented. 
 
 ## Scenario 1: Exploring South African Tuberculosis
 
@@ -43,9 +43,9 @@ Depending on what you have found in step 1, you might want to consider the follo
 
 1. With a group of other participants, each person can focus on collating lineage and drug resistant prevalence from South African in a single year. Then, as a group, you could compare to see how lineage prevalence and drug resistance has changed over time.
 
-You can do this by using [this](metadata_spreadsheetSA) spreadsheet and a graphing application, such as Excel. 
+You can do this by recording the metadata for South African samples over a single year and using a graphing application, such as Excel. 
 
-2. Did you find any interesting clusters in the data? Take note of the isolate IDs for the cluster you are interested in, and download the raw reads from [ENA](https://www.ebi.ac.uk/ena/browser/home). Once you have the raw reads, you could investigate the real SNP distances between the samples using a separate tool (such as those within the Galaxy platform). You might also want to take note of associated metadata, including location, collection date and drug resistance when analysing your samples. You can access all sample metadata [here](metadata_spreadsheetSA).
+2. Did you find any interesting clusters in the data? Take note of the isolate IDs for the cluster you are interested in, and download the raw reads from [ENA](https://www.ebi.ac.uk/ena/browser/home). Once you have the raw reads, you could investigate the real SNP distances between the samples using a separate tool (such as those within the Galaxy platform). You might also want to take note of associated metadata, including location, collection date and drug resistance when analysing your samples. 
 
 **Discussion point:** What _Atlas_ distance would you expect for isolates that were clonally related? How do you expect this to differ when generating the real SNP distance? 
 
